@@ -1,0 +1,9 @@
+{
+  "name": "typescript-tut",
+  "version": "1.0.0",
+  "description": "tutorial for typescript",
+  "main": "index.js",
+  "repository": "https://github.com/donggyushin/typescript.git",
+  "author": "rontend",
+  "license": "MIT"
+}
